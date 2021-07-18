@@ -1,7 +1,7 @@
-print("Hello_world")
-a=10
+a=1
 if a < 10 :
-    print("Hello_World")
+    print("Welcome_Hello_World")
 else:
-    print("New_Hello_World")
-print("Success")
+    print("Not_Welcome_Hello_World")
+
+

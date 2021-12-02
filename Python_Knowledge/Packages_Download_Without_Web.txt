@@ -1,0 +1,6 @@
+
+"Step-1" = pip download pandas
+
+
+
+"Step-2" = pip install *.wh *.gz

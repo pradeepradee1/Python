@@ -1,0 +1,5 @@
+How Do I Know that pyckages will be storing in directory ?
+
+		pip --version
+
+		Example Output : pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)

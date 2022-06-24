@@ -1,0 +1,3 @@
+
+How Do I know Packages Details From Pip ?
+	pip show Django

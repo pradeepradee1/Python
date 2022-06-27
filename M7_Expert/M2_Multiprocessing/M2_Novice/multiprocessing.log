@@ -1,0 +1,217 @@
+2022-06-27 18:40:52,170 MultiProcessing
+2022-06-27 18:40:52,170 Calling The download_all_sites Functions
+2022-06-27 18:40:52,174 Calling The  set_global_session Functions
+2022-06-27 18:40:52,174 Calling The  set_global_session Functions
+2022-06-27 18:40:52,175 Calling The  set_global_session Functions
+2022-06-27 18:40:52,175 Calling The  set_global_session Functions
+2022-06-27 18:40:52,176 Calling The  set_global_session Functions
+2022-06-27 18:40:52,178 Calling The  download_sites Functions
+2022-06-27 18:40:52,178 Calling The  download_sites Functions
+2022-06-27 18:40:52,178 Calling The  download_sites Functions
+2022-06-27 18:40:52,178 Calling The  download_sites Functions
+2022-06-27 18:40:52,178 Calling The  download_sites Functions
+2022-06-27 18:40:52,180 Starting new HTTPS connection (1): www.jython.org:443
+2022-06-27 18:40:52,180 Starting new HTTP connection (1): olympus.realpython.org:80
+2022-06-27 18:40:52,180 Starting new HTTP connection (1): olympus.realpython.org:80
+2022-06-27 18:40:52,181 Starting new HTTPS connection (1): www.jython.org:443
+2022-06-27 18:40:52,181 Starting new HTTPS connection (1): www.jython.org:443
+2022-06-27 18:40:52,308 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:52,309 Calling The  download_sites Functions
+2022-06-27 18:40:52,311 Starting new HTTP connection (1): olympus.realpython.org:80
+2022-06-27 18:40:52,315 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:52,316 Calling The  download_sites Functions
+2022-06-27 18:40:52,318 Starting new HTTP connection (1): olympus.realpython.org:80
+2022-06-27 18:40:52,451 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:52,453 Calling The  download_sites Functions
+2022-06-27 18:40:52,455 Starting new HTTP connection (1): olympus.realpython.org:80
+2022-06-27 18:40:52,952 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:52,953 Calling The  download_sites Functions
+2022-06-27 18:40:52,964 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:52,965 Calling The  download_sites Functions
+2022-06-27 18:40:52,966 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:52,967 Calling The  download_sites Functions
+2022-06-27 18:40:52,967 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:52,968 Calling The  download_sites Functions
+2022-06-27 18:40:52,968 Starting new HTTPS connection (1): www.jython.org:443
+2022-06-27 18:40:52,968 Starting new HTTPS connection (1): www.jython.org:443
+2022-06-27 18:40:52,983 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:52,984 Calling The  download_sites Functions
+2022-06-27 18:40:52,991 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:52,992 Calling The  download_sites Functions
+2022-06-27 18:40:53,007 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,008 Calling The  download_sites Functions
+2022-06-27 18:40:53,021 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,022 Calling The  download_sites Functions
+2022-06-27 18:40:53,095 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,096 Calling The  download_sites Functions
+2022-06-27 18:40:53,104 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,105 Calling The  download_sites Functions
+2022-06-27 18:40:53,240 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,241 Calling The  download_sites Functions
+2022-06-27 18:40:53,261 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,261 Calling The  download_sites Functions
+2022-06-27 18:40:53,278 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,279 Calling The  download_sites Functions
+2022-06-27 18:40:53,279 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,280 Calling The  download_sites Functions
+2022-06-27 18:40:53,299 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,300 Calling The  download_sites Functions
+2022-06-27 18:40:53,316 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,317 Calling The  download_sites Functions
+2022-06-27 18:40:53,338 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,339 Calling The  download_sites Functions
+2022-06-27 18:40:53,351 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,351 Calling The  download_sites Functions
+2022-06-27 18:40:53,361 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,361 Calling The  download_sites Functions
+2022-06-27 18:40:53,387 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,388 Calling The  download_sites Functions
+2022-06-27 18:40:53,445 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,446 Calling The  download_sites Functions
+2022-06-27 18:40:53,527 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,528 Calling The  download_sites Functions
+2022-06-27 18:40:53,567 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,569 Calling The  download_sites Functions
+2022-06-27 18:40:53,573 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,574 Calling The  download_sites Functions
+2022-06-27 18:40:53,601 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,602 Calling The  download_sites Functions
+2022-06-27 18:40:53,611 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,612 Calling The  download_sites Functions
+2022-06-27 18:40:53,639 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,640 Calling The  download_sites Functions
+2022-06-27 18:40:53,643 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,644 Calling The  download_sites Functions
+2022-06-27 18:40:53,683 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,684 Calling The  download_sites Functions
+2022-06-27 18:40:53,702 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,703 Calling The  download_sites Functions
+2022-06-27 18:40:53,816 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,817 Calling The  download_sites Functions
+2022-06-27 18:40:53,855 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,856 Calling The  download_sites Functions
+2022-06-27 18:40:53,867 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,868 Calling The  download_sites Functions
+2022-06-27 18:40:53,896 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,897 Calling The  download_sites Functions
+2022-06-27 18:40:53,931 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,932 Calling The  download_sites Functions
+2022-06-27 18:40:53,934 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,935 Calling The  download_sites Functions
+2022-06-27 18:40:53,941 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,941 Calling The  download_sites Functions
+2022-06-27 18:40:53,961 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:53,962 Calling The  download_sites Functions
+2022-06-27 18:40:53,973 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,974 Calling The  download_sites Functions
+2022-06-27 18:40:53,978 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:53,979 Calling The  download_sites Functions
+2022-06-27 18:40:54,000 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,001 Calling The  download_sites Functions
+2022-06-27 18:40:54,103 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,104 Calling The  download_sites Functions
+2022-06-27 18:40:54,188 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,189 Calling The  download_sites Functions
+2022-06-27 18:40:54,228 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,229 Calling The  download_sites Functions
+2022-06-27 18:40:54,231 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,232 Calling The  download_sites Functions
+2022-06-27 18:40:54,234 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,234 Calling The  download_sites Functions
+2022-06-27 18:40:54,260 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,260 Calling The  download_sites Functions
+2022-06-27 18:40:54,266 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,267 Calling The  download_sites Functions
+2022-06-27 18:40:54,271 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,273 Calling The  download_sites Functions
+2022-06-27 18:40:54,300 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,301 Calling The  download_sites Functions
+2022-06-27 18:40:54,352 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,353 Calling The  download_sites Functions
+2022-06-27 18:40:54,394 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,395 Calling The  download_sites Functions
+2022-06-27 18:40:54,490 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,490 Calling The  download_sites Functions
+2022-06-27 18:40:54,521 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,522 Calling The  download_sites Functions
+2022-06-27 18:40:54,529 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,530 Calling The  download_sites Functions
+2022-06-27 18:40:54,534 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,535 Calling The  download_sites Functions
+2022-06-27 18:40:54,559 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,560 Calling The  download_sites Functions
+2022-06-27 18:40:54,561 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,561 Calling The  download_sites Functions
+2022-06-27 18:40:54,567 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,568 Calling The  download_sites Functions
+2022-06-27 18:40:54,602 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,603 Calling The  download_sites Functions
+2022-06-27 18:40:54,644 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,645 Calling The  download_sites Functions
+2022-06-27 18:40:54,685 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,686 Calling The  download_sites Functions
+2022-06-27 18:40:54,793 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,794 Calling The  download_sites Functions
+2022-06-27 18:40:54,818 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,819 Calling The  download_sites Functions
+2022-06-27 18:40:54,823 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,824 Calling The  download_sites Functions
+2022-06-27 18:40:54,833 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,834 Calling The  download_sites Functions
+2022-06-27 18:40:54,857 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,858 Calling The  download_sites Functions
+2022-06-27 18:40:54,862 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,863 Calling The  download_sites Functions
+2022-06-27 18:40:54,865 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,866 Calling The  download_sites Functions
+2022-06-27 18:40:54,871 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,872 Calling The  download_sites Functions
+2022-06-27 18:40:54,895 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:54,896 Calling The  download_sites Functions
+2022-06-27 18:40:54,937 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:54,938 Calling The  download_sites Functions
+2022-06-27 18:40:55,120 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,121 Calling The  download_sites Functions
+2022-06-27 18:40:55,123 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,124 Calling The  download_sites Functions
+2022-06-27 18:40:55,128 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,129 Calling The  download_sites Functions
+2022-06-27 18:40:55,150 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,151 Calling The  download_sites Functions
+2022-06-27 18:40:55,158 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,159 Calling The  download_sites Functions
+2022-06-27 18:40:55,161 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,162 Calling The  download_sites Functions
+2022-06-27 18:40:55,166 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,167 Calling The  download_sites Functions
+2022-06-27 18:40:55,185 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,186 Calling The  download_sites Functions
+2022-06-27 18:40:55,188 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,189 Calling The  download_sites Functions
+2022-06-27 18:40:55,234 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,235 Calling The  download_sites Functions
+2022-06-27 18:40:55,415 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,416 Calling The  download_sites Functions
+2022-06-27 18:40:55,420 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,424 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,425 Calling The  download_sites Functions
+2022-06-27 18:40:55,444 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,445 Calling The  download_sites Functions
+2022-06-27 18:40:55,453 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,454 Calling The  download_sites Functions
+2022-06-27 18:40:55,482 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,483 Calling The  download_sites Functions
+2022-06-27 18:40:55,485 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,486 Calling The  download_sites Functions
+2022-06-27 18:40:55,511 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,521 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,522 Calling The  download_sites Functions
+2022-06-27 18:40:55,710 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,711 Calling The  download_sites Functions
+2022-06-27 18:40:55,743 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,743 Calling The  download_sites Functions
+2022-06-27 18:40:55,748 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,770 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273
+2022-06-27 18:40:55,781 https://www.jython.org:443 "GET / HTTP/1.1" 200 3721
+2022-06-27 18:40:55,782 Calling The  download_sites Functions
+2022-06-27 18:40:56,040 http://olympus.realpython.org:80 "GET /dice HTTP/1.1" 200 273

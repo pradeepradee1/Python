@@ -7,14 +7,14 @@ def f(n):
         sum += x*x
     return sum
 
-if __name__ == "__main__":
 
+if __name__ == "__main__":
     t1=time.time()
     p = Pool()
     result = p.map(f,range(100000))
     p.close()
     p.join()
-
+    
     print("Pool took:",time.time()-t1)
 
     t2=time.time()

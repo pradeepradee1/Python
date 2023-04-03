@@ -1,0 +1,49 @@
+from multiprocessing.pool import ThreadPool
+
+# class A():
+#     def __init__(self, vl):
+#         self.vl = vl
+#     def cal(self, nb):
+#         print("Calling The Cal Functions {}".format(nb))
+#         return nb * self.vl
+#     def run(self, dt):
+#         print("Calling The Run Functions")
+#         print(dt)
+#         # dt.append("Model")
+#         model="Model"
+#         t = ThreadPool(processes=4)
+#         rs = t.map(self.cal, [dt,model])
+#         t.close()
+#         return rs
+        
+# a = A(2)
+# print(a.run(list(range(10))))
+
+
+
+import time
+import multiprocessing
+
+def calc_square(numbers,Model):
+    print(numbers)
+    print(Model)
+    for n in numbers:
+        print('cube ' + str(n*2))    
+
+def calc_cube(numbers):
+    for n in numbers:
+        # time.sleep(5)
+        print('cube ' + str(n*3))
+
+if __name__ == "__main__":
+    arr = [2,3,8]
+    p1 = multiprocessing.Process(target=calc_square, args=(arr,'Model'))
+    # p2 = multiprocessing.Process(target=calc_cube, args=(arr,))
+    
+    p1.start()
+    # p2.start()
+
+    p1.join()
+    # p2.join()
+
+    print("Done!")

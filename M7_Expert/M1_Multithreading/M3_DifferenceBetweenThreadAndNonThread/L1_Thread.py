@@ -26,11 +26,11 @@ from threading import *
 import time
 def doubles(numbers):
     for n in numbers:
-        time.sleep(1)
+        time.sleep(5)
         print("Double:",2*n)
 def squares(numbers):   
     for n in numbers:
-        time.sleep(1)
+        time.sleep(5)
         print("Square:",n*n)
 
 

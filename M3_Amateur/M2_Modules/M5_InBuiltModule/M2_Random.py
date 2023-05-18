@@ -19,7 +19,7 @@ for i in range(5):
 
 #4) randrange()
 for i in range(5):
-    print(randrange(10))
+    print(randrange(5))
 
 #5) choice()
 list=["Sunny","Bunny","Chinny","Vinny","pinny"]

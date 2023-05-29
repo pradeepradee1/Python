@@ -7,7 +7,7 @@ def wish(name):
     l.acquire()
     for i in range(10):
         print("Good Evening:",end='')
-        time.sleep(2)
+        # time.sleep(2)
         print(name)
     l.release()
 t1=Thread(target=wish,args=("Dhoni",))

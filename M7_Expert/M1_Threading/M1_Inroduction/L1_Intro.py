@@ -1,4 +1,3 @@
-
 #Multi Tasking
 #Executing several tasks simultaneously is the concept of multitasking.
 
@@ -7,12 +6,12 @@
 #2. Thread based Multi Tasking (Multi Threading)
 
 #1. Process based Multi Tasking:
-#Executing several tasks simmultaneously where each task is a seperate and
-#independent process is called process based multi tasking
+#Executing several tasks simmultaneously where each task is a seperate and independent process is called 
+#process based multi tasking
 
 #2. Thread based MultiTasking:
-#Executing several tasks simultaneously where each task is a seperate and 
-#independent part of the same program, is called Thread based multi tasking 
+#Executing several tasks simultaneously where each task is a seperate and independent part of the same program, 
+#is called Thread based multi tasking 
 #and each independent part is called a Thread.
 
 

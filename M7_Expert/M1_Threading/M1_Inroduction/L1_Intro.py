@@ -6,14 +6,14 @@
 #2. Thread based Multi Tasking (Multi Threading)
 
 #1. Process based Multi Tasking:
-#Executing several tasks simmultaneously where each task is a seperate and independent process is called 
+#1.1) Executing several tasks simmultaneously where each task is a seperate and independent process is called 
 #process based multi tasking
+#1.2) multiprocessing implements parallelism.
 
 #2. Thread based MultiTasking:
-#Executing several tasks simultaneously where each task is a seperate and independent part of the same program, 
-#is called Thread based multi tasking 
-#and each independent part is called a Thread.
-
+#1.1) Executing several tasks simultaneously where each task is a seperate and independent part of the same program, 
+#is called Thread based multi tasking and each independent part is called a Thread.
+#1.2) multithreading implements concurrency.
 
 import threading
 import multiprocessing

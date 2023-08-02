@@ -1,0 +1,6 @@
+How Do i Active the virtual environment ?
+	Source virtualenv/bin/activate
+
+	here Soruce is for execution which is execution the virtual environment
+
+

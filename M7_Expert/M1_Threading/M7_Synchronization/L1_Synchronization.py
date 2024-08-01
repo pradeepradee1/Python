@@ -1,6 +1,7 @@
-#Synchronization
-#Executing multiple threads simultaneously then there may be a chance of data inconsistency problems.
-#To avoid the data inconsistency problems , the threads will be executed one by one.
+# Synchronization
+# While Executing multiple threads simultaneously then 
+# there may be a chance of data inconsistency problems
+# To avoid the data inconsistency problems , the threads will be executed one by one.
 
 
 

@@ -1,0 +1,20 @@
+Memory Management:
+
+Python handles memory management automatically using a combination of mechanisms like 
+1) reference counting, 
+2) garbage collection 
+3) memory pools
+
+
+1) reference counting :
+*) It is tracking all the object
+*) Every object has a reference count 
+#*) which increases when the object is referenced and which decreases when a reference to it is deleted
+*) When an object's reference count drops to zero, Python immediately deallocating the object.
+
+2. Garbage Collection (GC):
+*) It helps to clean up memory that reference counting can’t handle, focusing on breaking cycles and removing unused object
+
+3) Memory pools :
+*) Python uses a custom memory allocator called PyMalloc for small objects
+*) It will reduce the overhead of memory from the OS frequently

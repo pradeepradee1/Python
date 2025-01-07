@@ -26,7 +26,8 @@ del b          # Reference count drops to 0, and the memory is deallocated
 
 
 2. Garbage Collection (GC):
-*) It helps to clean up memory that reference counting can’t handle, focusing on breaking circular references and removing unused object
+*) It helps to clean up memory that reference counting can’t handle, like circular references 
+*) Garbage Collection will break it and  remove unused object
 
 
 Ex :

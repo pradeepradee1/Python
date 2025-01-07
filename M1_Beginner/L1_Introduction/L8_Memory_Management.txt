@@ -1,20 +1,49 @@
+Python memory management has two main parts
+
+1) Stack Memory: Used for local variables and function calls.
+2) Heap Memory: Used for objects and data structures, such as lists, dictionaries, and custom objects
+
 Memory Management:
 
-Python handles memory management automatically using a combination of mechanisms like 
-1) reference counting, 
-2) garbage collection 
-3) memory pools
+Python handles memory management automatically using a combination of technique like 
+1) Reference Counting, 
+2) Garbage Collection 
+3) Memory Pools
+
 
 
 1) reference counting :
-*) It is tracking all the object
-*) Every object has a reference count 
-#*) which increases when the object is referenced and which decreases when a reference to it is deleted
-*) When an object's reference count drops to zero, Python immediately deallocating the object.
+
+*) Every object has a associated reference count 
+*) When an object's reference count drops to zero, Python will deallocating the object.
+
+Ex : 
+
+a = [1, 2, 3]  # Reference count of the list is 1
+b = a          # Reference count increases to 2
+del a          # Reference count decreases to 1
+del b          # Reference count drops to 0, and the memory is deallocated
+
 
 2. Garbage Collection (GC):
-*) It helps to clean up memory that reference counting can’t handle, focusing on breaking cycles and removing unused object
+*) It helps to clean up memory that reference counting can’t handle, focusing on breaking circular references and removing unused object
+
+
+Ex :
+
+class Node:
+    def __init__(self, value):
+        self.value = value
+        self.next = None
+
+a = Node(1)
+b = Node(2)
+a.next = b
+b.next = a  # Circular reference
+del a
+del b       # The garbage collector cleans this up
+
 
 3) Memory pools :
-*) Python uses a custom memory allocator called PyMalloc for small objects
+*) Python uses private heap called the Python Object Allocator ( PyMalloc ) for small objects
 *) It will reduce the overhead of memory from the OS frequently

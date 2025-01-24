@@ -1,0 +1,62 @@
+my_package/
+├── my_package/
+│   ├── __init__.py
+│   ├── module1.py
+│   └── module2.py
+├── setup.py
+├── README.md
+└── LICENSE
+
+
+
+my_package/             : This is the main directory containing your Python package.
+__init__.py             : This file is required to indicate that the directory is a Python package.
+module1.py, module2.py  : These are your Python modules.
+setup.py                : This file is necessary for packaging your Python project.
+README.md               : This file describes your project.
+LICENSE                 : This file includes the licensing details.
+
+
+
+my_package/module1.py:
+
+def function1():
+    return "Hello from module1!"
+
+
+my_package/module2.py:
+
+def function2():
+    return "Hello from module2!"
+
+
+setup.py:
+
+from setuptools import setup, find_packages
+
+setup(
+    name="my_package",
+    version="0.1",
+    packages=find_packages(),
+    install_requires=[],
+    author="Your Name",
+    author_email="your.email@example.com",
+    description="A simple Python package",
+    long_description=open('README.md').read(),
+    long_description_content_type="text/markdown",
+    url="https://github.com/yourusername/my_package",
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+)
+
+
+Run the following commands in the root directory (where setup.py is located):
+
+python setup.py sdist
+
+Install the Package Locally
+
+pip install .

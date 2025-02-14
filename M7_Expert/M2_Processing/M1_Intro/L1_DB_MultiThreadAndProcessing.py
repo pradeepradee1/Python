@@ -3,12 +3,14 @@
 
 # Difference Between MultiThread And MultiProcessing ?
 
-# Multiple Thread live within same Process
+# Multi Thread
+# Create Multiple Thread inside a process
 # Multi Thread will share memory space and Each one Has specfic instructions and specfic task
 # It gloably to connect with another thread
 
-# It Can Create Multiple Thread inside a process
-# Multi Process will own memory space and Each one has its Interprocessor Communication Techniques (e.g., pipes, sockets)
+# Multi Process
+# Create Multiple Thread inside a process
+# Multi Process has own memory space and Each one has its Interprocessor Communication Techniques (e.g., pipes, sockets)
 # By using this technique each process share its data , memory 
 
 

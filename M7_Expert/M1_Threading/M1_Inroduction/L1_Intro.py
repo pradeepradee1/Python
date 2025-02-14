@@ -37,18 +37,12 @@ print(multiprocessing.current_process().name)
 
 
 
-# For Example :
-# I am Running the Chrome and youtube and VisulStudioCode applications in my machine This is Multi Tasking
-# All the Different Programs are Different Process 
-# We Can See In The Task Manager in windows
+# For Example thread :
+# In banking application where you can check your account balance, transfer money, view balance
+# These task can be done using sperate thread with same applications
 
-# What is Multiple Thread ?
-# Multiple Thread live within same Process
-
-# What is Multiple Process ?
-# Process Has its own virtual memory Or Address Space
-# It Can Create Multiple Thread inside it
-
+# For Example Processing :
+# Data processing  in PySpark
 
 
 

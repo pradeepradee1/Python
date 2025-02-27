@@ -48,3 +48,11 @@ del b       # The garbage collector cleans this up
 3) Memory pools :
 *) Python uses private heap called the Python Object Allocator ( PyMalloc ) for small objects
 *) It will reduce the overhead memory from the OS frequently
+
+
+
+#Note :
+What is overhead memory or Off-Heap Memory ?
+    It is raw memory 
+    It is not part of JVM Process
+
